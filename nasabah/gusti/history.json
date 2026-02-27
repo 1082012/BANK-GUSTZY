@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "type": "Transfer Masuk",
+    "dari": "6454075732",
+    "nominal": 500000,
+    "admin": 0,
+    "total": 500000,
+    "ref": "GUSTZY-1772229376368",
+    "tanggal": "28/2/2026, 04.56.16",
+    "status": "success"
+  }
+]
