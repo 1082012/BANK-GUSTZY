@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "type": "Transfer Masuk",
+    "dari": "M. GUSTI FAIZ F.",
+    "norek_pengirim": "6451121673",
+    "nominal": 10000,
+    "admin": 0,
+    "total": 10000,
+    "ref": "GUSTZY-1772231284021",
+    "tanggal": "28/2/2026, 05.28.04",
+    "status": "success"
+  }
+]
