@@ -1,16 +1,5 @@
 [
   {
-    "type": "Transfer Keluar",
-    "ke": "NARACH",
-    "norek_tujuan": "6452964670",
-    "nominal": -10000,
-    "admin": 0,
-    "total": -10000,
-    "ref": "GUSTZY-1772276019478",
-    "tanggal": "28/2/2026, 17.53.39",
-    "status": "success"
-  },
-  {
     "type": "Deposit E-Wallet QRIS",
     "nominal": 981,
     "ref": "DEP-1772294262221",
