@@ -40,5 +40,12 @@
     "date": "01/03/2026, 1:06:51 pm",
     "status": "success",
     "sn": "DANA/081313876160 Qo****ah/1.000/2026030110110000010000DANAW3ID166389578984904"
+  },
+  {
+    "type": "ADMIN ADJUSTMENT (SUB)",
+    "nominal": -41000,
+    "date": "1/3/2026, 15.30.10",
+    "ref": "ADM-1772353810444",
+    "status": "success"
   }
 ]
