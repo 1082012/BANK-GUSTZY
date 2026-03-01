@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "type": "ADMIN ADJUSTMENT (SUB)",
+    "nominal": -10000,
+    "date": "1/3/2026, 15.42.16",
+    "ref": "ADM-1772354536822",
+    "status": "success"
+  }
+]
