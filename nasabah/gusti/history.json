@@ -63,13 +63,13 @@
   },
   {
     "id": "gt8SgjjFhYjQe1odklat",
-    "type": "Pembelian GoPay 5.000",
+    "type": "[REFUND] Pembelian GoPay 5.000",
     "name": "GoPay 5.000",
     "nominal": -7042,
     "price": 7042,
     "target": "081310208028",
     "ref": "GUSTZY-1772454948216",
     "date": "2/3/2026, 19.35.51",
-    "status": "pending"
+    "status": "failed"
   }
 ]
