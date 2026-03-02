@@ -91,5 +91,12 @@
     "ref": "DEP-1772455190088",
     "date": "2/3/2026, 19.40.07",
     "status": "success"
+  },
+  {
+    "type": "ADMIN ADJUSTMENT (ADD)",
+    "nominal": 1500,
+    "date": "2/3/2026, 21.08.52",
+    "ref": "ADM-1772460532166",
+    "status": "success"
   }
 ]
