@@ -225,5 +225,16 @@
     "tanggal": "3/3/2026, 19.10.48",
     "status": "success",
     "note": "Biaya: Admin 4k, Jasa 2k, Keamanan 1k"
+  },
+  {
+    "type": "Transfer undefined",
+    "nominal": 17000,
+    "admin": 1000,
+    "total": 23000,
+    "ref": "659e90e0dNyd1cmJzOUvQrjO7CyvDFxw",
+    "reff_id": "TRFBANK-1772557214206",
+    "tanggal": "2026-03-04 00:00:15",
+    "status": "success",
+    "note": "Transfer Bank Berhasil"
   }
 ]
