@@ -255,5 +255,16 @@
     },
     "date": "4/3/2026, 00.34.22",
     "type": "TRANSFER BCA"
+  },
+  {
+    "type": "Transfer undefined",
+    "nominal": 17000,
+    "admin": 1000,
+    "total": 23000,
+    "ref": "tg0ENLWSknxSrdWag8sr6CmCjPZ9OOjK",
+    "reff_id": "TRFBANK-1772560053790",
+    "tanggal": "2026-03-04 00:47:34",
+    "status": "success",
+    "note": "Transfer Bank Berhasil"
   }
 ]
