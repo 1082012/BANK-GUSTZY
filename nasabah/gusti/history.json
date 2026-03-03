@@ -209,11 +209,21 @@
     "tanggal": "3/3/2026, 14.02.33",
     "status": "success"
   },
-    {
+  {
     "type": "Deposit E-Wallet QRIS",
     "nominal": 20500,
     "ref": "DEP-1772526813959",
     "date": "28/02/2026, 15.37.10 pm",
     "status": "success"
+  },
+  {
+    "type": "Transfer BJB",
+    "nominal": -20000,
+    "admin": 1000,
+    "total": -21000,
+    "ref": "FeJ0onBtg2PrP7J7x87X5u1Flc8EMUsw",
+    "tanggal": "3/3/2026, 19.10.48",
+    "status": "success",
+    "note": "Biaya: Admin 4k, Jasa 2k, Keamanan 1k"
   }
 ]
