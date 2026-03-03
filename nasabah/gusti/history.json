@@ -197,5 +197,16 @@
     "ref": "DEP-1772519684197",
     "date": "3/3/2026, 13.35.43",
     "status": "success"
+  },
+  {
+    "type": "Transfer Keluar",
+    "ke": "archthree",
+    "norek_tujuan": "6452845683",
+    "nominal": -4000,
+    "admin": 0,
+    "total": -4000,
+    "ref": "GUSTZY-1772521353867",
+    "tanggal": "3/3/2026, 14.02.33",
+    "status": "success"
   }
 ]
