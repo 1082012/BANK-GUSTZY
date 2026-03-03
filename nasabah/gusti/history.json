@@ -133,13 +133,13 @@
   },
   {
     "id": "bEgj7QwZUyz2wtW6t9z1",
-    "type": "Pembelian Xl 5.000",
+    "type": "[REFUND] Pembelian Xl 5.000",
     "name": "Xl 5.000",
     "nominal": -7017,
     "price": 7017,
     "target": "085939160024",
     "ref": "GUSTZY-1772516337980",
     "date": "3/3/2026, 12.39.12",
-    "status": "pending"
+    "status": "failed"
   }
 ]
