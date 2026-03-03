@@ -208,5 +208,12 @@
     "ref": "GUSTZY-1772521353867",
     "tanggal": "3/3/2026, 14.02.33",
     "status": "success"
+  },
+    {
+    "type": "Deposit E-Wallet QRIS",
+    "nominal": 20500,
+    "ref": "DEP-1772526813959",
+    "date": "28/02/2026, 15.37.10 pm",
+    "status": "success"
   }
 ]
