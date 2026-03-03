@@ -236,5 +236,24 @@
     "tanggal": "2026-03-04 00:00:15",
     "status": "success",
     "note": "Transfer Bank Berhasil"
+  },
+  {
+    "id": "ID-GEN-1772559262064",
+    "reff_id": "TRFBANK-1772559261931",
+    "name": "PENERIMA TIDAK DIKETAHUI",
+    "number": "2451319894",
+    "nominal": -20000,
+    "fee": 1000,
+    "additional": 500,
+    "total": 21500,
+    "status": "success",
+    "method": "bca",
+    "detail": {
+      "note": "Transfer ke bca - 2451319894",
+      "phone": "-",
+      "email": "-"
+    },
+    "date": "4/3/2026, 00.34.22",
+    "type": "TRANSFER BCA"
   }
 ]
