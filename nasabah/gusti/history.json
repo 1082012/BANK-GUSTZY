@@ -372,9 +372,10 @@
     "price": 2340,
     "nominal": null,
     "target": "4725313109",
-    "sn": "GUSTZY-1772649807937",
+    "sn": "Cravenuzz. Refid: ORDER17726498107523",
     "status": "success",
-    "date": "2026-03-05 01:43:29"
+    "date": "2026-03-05 01:43:29",
+    "is_processed": true
   },
   {
     "id": "2sKt6y9yrxYk2bKXWtK7",
