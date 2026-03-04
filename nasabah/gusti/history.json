@@ -370,9 +370,9 @@
     "type": "Pembelian Free Fire 10 Diamond",
     "name": "Free Fire 10 Diamond",
     "price": 2340,
-    "nominal": -2340,
+    "nominal": null,
     "target": "4725313109",
-    "sn": "Cravenuzz. Refid: ORDER17726498107523",
+    "sn": "GUSTZY-1772649807937",
     "status": "success",
     "date": "2026-03-05 01:43:29"
   },
