@@ -336,30 +336,6 @@
     "date": "2026-03-04 23:24:51"
   },
   {
-    "id": "6dRrXYFV9XFTDPCJQAjA",
-    "reff_id": "DEP-1772642978479",
-    "type": "Deposit E-Wallet Qris",
-    "nominal": 10000,
-    "price": 10000,
-    "method": "QRIS",
-    "status": "pending",
-    "qr_url": "https://ciaatopup.my.id/qr/6dRrXYFV9XFTDPCJQAjA",
-    "expired_at": "2026-03-05 00:49:41",
-    "date": "04/03/2026, 11:49:41 pm"
-  },
-  {
-    "id": "T5YyaCxr52z51dlytK6z",
-    "reff_id": "DEP-1772643294546",
-    "type": "Deposit E-Wallet Qris",
-    "nominal": 10000,
-    "price": 10000,
-    "method": "QRIS",
-    "status": "pending",
-    "qr_url": "https://ciaatopup.my.id/qr/T5YyaCxr52z51dlytK6z",
-    "expired_at": "2026-03-05 00:54:57",
-    "date": "04/03/2026, 11:54:58 pm"
-  },
-  {
     "type": "Deposit E-Wallet QRIS",
     "nominal": 9846,
     "total": 9846,
