@@ -408,9 +408,11 @@
     "nominal": 1000,
     "price": 1000,
     "method": "QRIS",
-    "status": "pending",
+    "status": "failed",
     "qr_url": "https://ciaatopup.my.id/qr/emLQuM0sO93Ovoc7OyZi",
     "expired_at": "2026-03-05 06:26:57",
-    "date": "05/03/2026, 5:26:57 am"
+    "date": "05/03/2026, 5:26:57 am",
+    "sn": "DIBATALKAN OLEH USER",
+    "cancel_date": "5/3/2026, 05.27.05"
   }
 ]
