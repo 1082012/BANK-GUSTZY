@@ -28,8 +28,10 @@
     "type": "DEPOSIT",
     "nominal": 5000,
     "price": 5477,
-    "status": "pending",
+    "status": "failed",
     "date": "5/3/2026, 14.50.38",
-    "expired_at": "2026-03-05 15:50:37"
+    "expired_at": "2026-03-05 15:50:37",
+    "sn": "DIBATALKAN OLEH USER",
+    "cancel_date": "5/3/2026, 14.52.49"
   }
 ]
