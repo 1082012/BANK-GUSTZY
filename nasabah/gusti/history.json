@@ -12,16 +12,16 @@
     "date": "5/3/2026, 13.39.15"
   },
   {
-    "id": "d6Rx8i0M9RvGHpLhPakC",
-    "reff_id": "DEP-1772695577296",
+    "id": "7V3PCZ54GzPwuZPBNTi7",
+    "reff_id": "DEP-1772695869090",
     "type": "Deposit E-Wallet Qris",
-    "nominal": 5477,
-    "get_balance": 5000,
+    "nominal": 1420,
+    "get_balance": 1000,
     "method": "QRIS",
     "status": "pending",
-    "qr_url": "https://ciaatopup.my.id/qr/d6Rx8i0M9RvGHpLhPakC",
-    "expired_at": "2026-03-05 15:26:20",
-    "date": "05/03/2026, 2:26:20 pm"
+    "qr_url": "https://ciaatopup.my.id/qr/7V3PCZ54GzPwuZPBNTi7",
+    "expired_at": "2026-03-05 15:31:11",
+    "date": "05/03/2026, 2:31:11 pm"
   },
   {
     "type": "Deposit E-Wallet QRIS",
