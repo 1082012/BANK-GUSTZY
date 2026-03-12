@@ -1,5 +1,10 @@
 {
-  "employees": [],
+  "employees": [
+    {
+      "user": "nararya_opr",
+      "pass": "opr_nararya"
+    }
+  ],
   "user_data": [],
   "reports": []
 }
