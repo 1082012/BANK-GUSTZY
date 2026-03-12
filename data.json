@@ -5,6 +5,14 @@
       "pass": "opr_nararya"
     }
   ],
-  "user_data": [],
+  "user_data": [
+    {
+      "id": "Tes",
+      "nama": "P",
+      "saldo": "Rp 10.000",
+      "status": "Active",
+      "role": "Excluded"
+    }
+  ],
   "reports": []
 }
